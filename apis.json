@@ -1,0 +1,52 @@
+{
+    "name": "Apptamin",
+    "description": "THE agency for app videos. We produce mobile video ads and app store videos for brands, startups and game studios from around the world. We create with you the right videos and for the right channels so you can increase your app's conversion rate and a...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10175-apptamin.jpg",
+    "tags": [
+        "agencies",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/apptamin\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Apptamin",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10175-apptamin.jpg",
+            "humanURL": "https:\/\/www.apptamin.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apptamin-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/apptamin"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/apptamin"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.apptamin.com\/blog\/app-developer-tools\/"
+        },
+        {
+            "type": "Email",
+            "url": "contact@apptamin.com"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.apptamin.com\/"
+        }
+    ]
+}
